@@ -151,6 +151,7 @@ activemq-data/
 .env
 .envrc
 .venv
+ai_services
 env/
 venv/
 ENV/
